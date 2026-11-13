@@ -1,0 +1,11 @@
+PORTFOLIO MARTA - guía rápida
+=============================
+index.html  -> la web. Todo lo que ve el visitante está en esta carpeta "web".
+media/      -> fotos y vídeos ya comprimidos.
+
+Para cambiar títulos, orden o añadir/quitar vídeos y fotos:
+abre index.html con el Bloc de notas y edita el bloque "CONTENIDO EDITABLE"
+(empieza en "const CONTENT = {").
+
+Para subir a GitHub: sube TODO el contenido de esta carpeta "web"
+(index.html + carpeta media) al repositorio.
